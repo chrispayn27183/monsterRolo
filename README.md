@@ -1,4 +1,5 @@
-<<<<<<< HEAD
+This project follows a Udemy tutorial to create a rolodex of monsters using React. Welcome.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -58,7 +59,8 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/ma
 
 ### Advanced Configuration
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+This section has moved here: 
+https://facebook.github.io/create-react-app/docs/advanced-configuration
 
 ### Deployment
 
@@ -67,7 +69,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-=======
 # monsterRolo
 Monster Rolodex from Udemy React Course
->>>>>>> ea741f109fbf175d46673d89919d2c7c6eb25824
