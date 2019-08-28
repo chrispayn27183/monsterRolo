@@ -1,5 +1,7 @@
 This project follows a Udemy tutorial to create a rolodex of monsters using React. Welcome.
 
+The app is hosted using gitHub pages at: https://chrispayn27183.github.io/monsterRolo/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
