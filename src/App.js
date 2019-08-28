@@ -14,8 +14,7 @@ class App extends Component {
         // {name: 'Sully', id: 3},
         // {name: 'Randal', id: 4}
       ],
-      searchField: '',
-      title: 'Monsters'
+      searchField: ''
     };
   }
 
@@ -38,14 +37,13 @@ class App extends Component {
 
     return (
     <div className="App">
-      <h1>{this.state.title} </h1>
+      <h1> Monsters Rolodex </h1>
 
       <SearchBox placeholder='search monsters' handleChange={this.handleChange}/>   {/*this.handleChange*/}
       <CardList monsters={filteredMonsters}></CardList>
       
       
       
-      <button onClick={() => this.setState({title: 'Here be monsters'})}> Here be button </button>
     </div>
     
     )
